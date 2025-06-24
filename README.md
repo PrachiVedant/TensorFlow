@@ -1,15 +1,12 @@
-# 🧠✨ TensorFlow Beginner Projects
+# 🧠✨ TensorFlow Beginner Guide
 
-Welcome to **TensorFlow Beginner Projects** — your launchpad into the exciting world of **Machine Learning with TensorFlow**!
+Welcome to **TensorFlow Beginner Guide** — your launchpad into the exciting world of **Machine Learning with TensorFlow**!
 
 Whether you’re a student, an aspiring data scientist, or just curious about AI, this repository is designed to help you build a solid foundation in TensorFlow through hands-on, beginner-friendly examples.
 
 ---
 
 <p align="center">
-  <a href="https://colab.research.google.com/drive/1cYyUrIPHnZ54ddkoBdvcgQot0zK2KNpz?usp=sharing">
-    <img src="https://img.shields.io/badge/Open%20in-Google%20Colab-F9AB00?logo=google-colab&logoColor=white&style=for-the-badge" alt="Open in Colab">
-  </a>
   <img src="https://img.shields.io/badge/Built%20with-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="Built with TensorFlow">
 </p>
 
@@ -34,17 +31,20 @@ This notebook covers the essential concepts every TensorFlow beginner should kno
 5. ✖️ **Matrix Multiplication & Dot Product**  
    - Perform mathematical operations like `tf.matmul()` and `tf.tensordot()`.
 
+6. 📊 **Tensor Aggregation (min, max)**  
+   - Find the minimum and maximum values in tensors using aggregation functions.
+
+7. 🏷️ **Updating Tensor Data Types**  
+   - Learn how to change the data type (dtype) of a tensor.
+
+8. ➕ **Applying Basic Operations (add, sub, multiply, divide)**  
+   - Use TensorFlow for addition, subtraction, multiplication, and division on tensors.
+
 ---
 
 ## 🚀 Quick Start
 
 You can instantly run the notebook in your browser — no installation required!
-
-<p align="center">
-  <a href="https://colab.research.google.com/drive/1cYyUrIPHnZ54ddkoBdvcgQot0zK2KNpz?usp=sharing">
-    <img src="https://img.shields.io/badge/Run%20on-Google%20Colab-blue?style=for-the-badge&logo=google-colab">
-  </a>
-</p>
 
 Or, to run locally, simply install the requirements:
 
@@ -54,6 +54,9 @@ pip install numpy
 ```
 
 ---
+
+
+
 ## 📬 Contact & Feedback
 
 Questions or feedback?  
